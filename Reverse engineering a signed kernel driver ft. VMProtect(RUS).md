@@ -10,7 +10,7 @@
 *   [GitHub](https://github.com/zer0condition)
 *   [Instagram](https://www.instagram.com/zer0condition/)
 
-Реверсим signed kernel driver ft. VMProtect
+Реверсим signed kernel driver ft. VMProtect. Перевел Nitr0-G.
 ===========================================
 
 14 April, 2023 — 20 min read
